@@ -7,8 +7,8 @@ The goal was to build a clean, responsive card layout and match the provided Fig
 
 ### Links
 
-* Solution URL: https://www.frontendmentor.io/profile/safaaeltom
-* Live Site: Not deployed (local project)
+* Profile URL: https://www.frontendmentor.io/profile/safaaeltom
+* Live Site: https://qr-code-orpin-rho.vercel.app
 
 ---
 
@@ -41,11 +41,8 @@ The goal was to build a clean, responsive card layout and match the provided Fig
 
 ### AI Collaboration
 
-I used ChatGPT to:
-
-* Debug layout and alignment issues
-* Understand spacing (padding vs margin vs gap)
-* Improve typography accuracy (line-height and letter-spacing)
+AI Assistance
+I used ChatGPT to help debug layout and alignment issues, understand spacing concepts (padding vs margin vs gap), and improve typography accuracy such as line-height and letter-spacing.
 
 ---
 
